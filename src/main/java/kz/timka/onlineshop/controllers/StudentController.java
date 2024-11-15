@@ -17,11 +17,6 @@ public class StudentController {
     public StudentController(StudentService studentService, StudentRepository studentRepository) {
         this.studentService = studentService;
         this.studentRepository = studentRepository;
-        System.out.println("A");
-        System.out.println("B");
-        System.out.println("R");
-        System.out.println("T");
-        System.out.println("Y");
     }
 
 
