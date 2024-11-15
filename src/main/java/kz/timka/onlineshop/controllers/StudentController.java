@@ -19,6 +19,7 @@ public class StudentController {
         this.studentRepository = studentRepository;
         System.out.println("A");
         System.out.println("B");
+        System.out.println("R");
     }
 
 
