@@ -20,6 +20,8 @@ public class StudentController {
         System.out.println("A");
         System.out.println("B");
         System.out.println("R");
+        System.out.println("T");
+        System.out.println("Y");
     }
 
 
